@@ -41,3 +41,4 @@ Los módulos que componen la interfáz del programa son:
   
   
   
+![proyecto](https://user-images.githubusercontent.com/108028898/210557827-4a5e93c4-b197-4783-b1b6-f8d52c745649.png)
