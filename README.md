@@ -1,1 +1,43 @@
+# Proyecto_CRUD_PHP
 
+Proyecto CRUD con PHP, Bootstrap, y MySQL (XAMPP)
+
+Propósito del sistema.
+
+El CRUD (Ingresar, leer, actualizar y eliminar) administra los datos de los usuarios y de sus proyectos en una base de datos.
+
+Utilicé PHP y MySQL para la recepción de datos, y para la interfaz bootstrap.
+
+Los módulos que componen la interfáz del programa son:
+
+*Header (Cabecera)
+
+	Nombre del archivo: header.php 
+  
+*Cerrar (Cerrar)
+
+	Nombre del archivo: cerrar.php
+  
+*Conexion (Conexion)
+
+	Nombre del archivo: conexion.php
+  
+*Index (Inicio)
+
+	Nombre del archivo: index.php
+  
+*Login (Login)
+
+	Nombre del archivo: Login.php
+  
+*Footer (Pie)
+
+	Nombre del archivo: pie.php
+ 
+*Portafolio (Portfolio)
+
+	Nombre del archivo: portafolio.php
+  
+  
+  
+  
